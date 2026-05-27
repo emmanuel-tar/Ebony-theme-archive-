@@ -1,0 +1,6 @@
+{
+  "name": "Ebony Studio",
+  "description": "A premium theme developer workspace and showcase app for Project Ebony, compiling African-inspired themes for professional Mobile Android Phones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
